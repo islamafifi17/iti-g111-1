@@ -22,8 +22,8 @@ git clone https://github.com/mohei20/iti-g111.git
 ```
 * Open the folder whith editor like VSCode 
 
-* install Extension Pack for Java from 
-[Here] (https://marketplace.visualstudio.com/items?itemName=vscjava.vscode-java-pack)
+* install Extension Package for Java from 
+[Here](https://marketplace.visualstudio.com/items?itemName=vscjava.vscode-java-pack)
 
 * install Extension (Maven for Java) from 
 [Here](https://marketplace.visualstudio.com/items?itemName=vscjava.vscode-maven)
